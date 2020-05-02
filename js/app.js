@@ -1,5 +1,5 @@
 Vue.component('hb', {  
-  template: '<div class="w-5/6 mx-auto border-b border-gray-900 p-4 mb-12"></div>'
+  template: '<div class="w-5/6 lg:mx-auto border-b border-gray-900 p-4 mb-12"></div>'
 });
 
 var app = new Vue({
