@@ -17,7 +17,7 @@ var app = new Vue({
         company: "Mindtrust Labs",
         tech: "LAMP Stack, VueJS, React, NextJS, NodeJS, Gridsome, CraftCMS, HTML5/CSS3, WordPress, Builder.io, ",
         projects:
-          "Datto.com - Backupify.com - OaklandPromise.org - ScutiRewards.com - Freshpet.com",
+          "Datto.com - Backupify.com - BayardLaw.com - OaklandPromise.org - ScutiRewards.com - Freshpet.com",
       },
       {
         year: "2016 - 2019",
