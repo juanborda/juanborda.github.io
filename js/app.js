@@ -13,8 +13,8 @@ var app = new Vue({
     jobs: [
       {
         year: "2019 - Present",
-        title: "Senior Web Developer",
-        company: "Datto",
+        title: "Senior Full Stack Developer",
+        company: "Mindtrust Labs",
         tech: "LAMP Stack, VueJS, React, NextJS, NodeJS, Gridsome, CraftCMS, HTML5/CSS3, WordPress, Builder.io, ",
         projects:
           "Datto.com - Backupify.com - OaklandPromise.org - ScutiRewards.com - Freshpet.com",
